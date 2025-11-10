@@ -1,0 +1,29 @@
+## Section 4:
+You can start this section anytime.
+
+Steps to complete this part of the assignment:
+- Read the article
+- Write, within this markdown file, <1000 words.
+
+### Ethics
+
+Read: Qadri, R. (2021, November 11). _When Databases Get to Define Family._  Wired. <br>
+    https://www.wired.com/story/pakistan-digital-database-family-design/
+
+Link if you encounter a paywall: https://archive.is/srKHV or https://web.archive.org/web/20240422105834/https://www.wired.com/story/pakistan-digital-database-family-design/
+
+**What values systems are embedded in databases and data systems you encounter in your day-to-day life?**
+
+Consider, for example, concepts of fariness, inequality, social structures, marginalization, intersection of technology and society, etc.
+
+
+```
+Your thoughts...
+```
+Databases not just as technical tools, but systems reflecting human values. The social implications of how data is organized are familiar from my work in education. This reflection explores how everyday data systems embed assumptions identity, and inclusion. Databases rely on predefined categories, such as gender, family structure, or citizenship. These categories are often taken for granted, but they carry cultural and political weight.  
+
+In my academic environment, student information systems often  Western naming conventions. International students or those from nontraditional families may find that their identities don’t fit neatly into the database. Similarly, learning management systems (LMS) track student engagement through metrics like login frequency or discussion posts. These indicators may not account for neurodiverse learners or cultural differences in participation styles, yet they’re used to assess performance. As a researcher, I’ve also encountered limitations in data collection tools. When conducting surveys, I’m often forced to simplify complex identities into checkboxes, race, ethnicity, language, based on institutional templates. These simplifications can erase nuance and reinforce dominant narratives. Ethical research requires acknowledging these constraints and advocating for more inclusive data practices. 
+
+Beyond academia, media platforms like news aggregators and YouTube also reflect embedded value systems. News algorithms often prioritize Western sources, shaping public understanding of global events. Stories from the Global South or Indigenous communities may be underrepresented or framed through Western perspectives. This influences not only what we read, but how we think about the world. YouTube’s recommendation system is another example. It promotes content based on watch time and engagement, which tends to favour popular creators and mainstream topics. Marginalized voices, such as disabled educators, or those speaking in non-dominant languages, struggle for visibility. The algorithm amplifies what’s already dominant, reinforcing cultural hierarchies. 
+
+As an educator, I believe fairness means recognizing diverse ways of knowing and being. Data systems may exclude overlook informal learning or penalize students who don’t conform to standardized metrics, thus fall short of this ideal. These systems shape access to resources, recognition, and opportunity. Marginalization can occur invisibly through design. For example, if a database doesn’t allow for multiple guardians or chosen family structures, some students may be denied access to services. If a grading algorithm penalizes late submissions without accounting for caregiving responsibilities or mental health, it reinforces inequity. 
